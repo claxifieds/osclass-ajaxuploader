@@ -1,14 +1,8 @@
 {
-  "name": "xiris/osclass-ajaxuploader",
+  "name": "claxifieds/ajaxuploader",
   "description": "OSclass Ajaxuploader library",
   "license": "Apache-2.0",
   "type": "library",
-  "authors": [
-    {
-      "name": "Christopher Silva",
-      "email": "xiris@xiris.com.br"
-    }
-  ],
 
   "require": {
     "php": ">=5.6"
